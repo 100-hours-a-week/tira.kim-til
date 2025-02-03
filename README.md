@@ -18,10 +18,10 @@
 
 25.01.27 - 25.01.30 조부모님 댁 방문으로 학습 일시중지
 
-25.01.28 Git 공부 및 실습 (상세 내역 링크)
+25.01.28 Git 공부 및 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2024-01-28.md))
 
 ### [2월 첫째주, 2주차] : 파이썬 데이터 분석
 
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+25.02.03 세부 주제 1 작성 (상세 내역 링크)
 
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
+25.02.04 세부 주제 2 작성 (상세 내역 링크)
