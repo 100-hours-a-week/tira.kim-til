@@ -8,11 +8,11 @@
 
 25.01.21 환경 세팅 및 프로그래밍 기초 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2024-01-21.md))
 
-25.01.22 순서도 공부 (상세 내역 링크)
+25.01.22 순서도 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2024-01-22.md))
 
-25.01.23 멀티스레딩 공부 (상세 내역 링크)
+25.01.23 멀티스레딩 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2024-01-23.md))
 
-25.01.24 1주차 딥다이브 (상세 내역 링크)
+25.01.24 1주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/james.lee-til/blob/main/01-Jan/2024-01-24.md))
 
 ### [1월 다섯째주, 설연휴] : Git
 
