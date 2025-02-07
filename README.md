@@ -6,4 +6,4 @@
 25.02.04 numpy, pandas 기본 개념 강의 ([링크](./Folder/Feb/2025-02-04.md)) <br>
 25.02.05 numpy 심화 학습 ([링크](./Folder/Feb/2025-02-05.md)) <br>
 25.02.06 pandas 심화 학습, JSON 개념 정리 ([링크](./Folder/Feb/2025-02-06.md)) <br>
-
+25.02.07 딥다이브 - numpy 데이터 처리 방식 ([링크](./Folder/Feb/2025-02-07.md)) <br>
